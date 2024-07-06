@@ -2,7 +2,7 @@
 
 <div id="socials" align="center">
   <a href="https://discordapp.com/users/335154369706328065">
-    <img src="https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png" width="150" height="50" alt="LinkedIn"/>
+    <img src="https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png" width="150" height="70" alt="LinkedIn"/>
   </a>
 </div>
 
