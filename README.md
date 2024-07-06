@@ -2,7 +2,7 @@
 
 <div id="socials" align="center">
   <a href="https://discordapp.com/users/335154369706328065">
-    <img src="https://ezwow.org/uploads/monthly_12_2019/post-2-0-24646800-1576927826.png" width="100" height="50" alt="LinkedIn"/>
+    <img src="https://ezwow.org/uploads/monthly_12_2019/post-2-0-24646800-1576927826.png" width="150" height="50" alt="LinkedIn"/>
   </a>
 </div>
 
