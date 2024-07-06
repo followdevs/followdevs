@@ -2,7 +2,7 @@
 
 <div id="socials" align="center">
   <a href="https://discordapp.com/users/335154369706328065">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://ezwow.org/uploads/monthly_12_2019/post-2-0-24646800-1576927826.png" alt="LinkedIn"/>
   </a>
 </div>
 
